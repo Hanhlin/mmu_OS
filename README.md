@@ -10,6 +10,7 @@ The following are six page replacement algorithms implemented:
 6) Working Set
 
 Each process has virtual address space of exactly 64 virtual pages. 
+
 Note that is only support up to 128 frames.
 
 
